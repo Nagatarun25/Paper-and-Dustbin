@@ -1,1 +1,2 @@
-# Paper-and-Dustbin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
